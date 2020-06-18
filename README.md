@@ -17,7 +17,7 @@
 * **Run the command** `time python social_distance_detector.py --input pedestrians.mp4 \ --output output.avi --display 1` ***to run your social distance detection project***
 
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![Output.avi](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
+![Output avi gif](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
 
 # For GPU:
 You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
