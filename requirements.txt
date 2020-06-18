@@ -1,0 +1,5 @@
+imutils==0.5.3
+numpy==1.18.5
+opencv-python==4.2.0.34
+pkg-resources==0.0.0
+scipy==1.4.1
