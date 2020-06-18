@@ -20,5 +20,5 @@
 ## Contacts:
 * **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
 * **Email: (https://abd.shoumik@gmail.com)**
-* **Youtube:[TheLazyCoder](channel/UCWjx_FKjjfjAL-wtSi-iS4g)**
+* **Youtube:[TheLazyCoder](https://youtube.com/channel/UCWjx_FKjjfjAL-wtSi-iS4g)**
 * **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/abdullah-shoumik-7a0b36135/)**
