@@ -1,7 +1,7 @@
 # Social-distance-detection
 
 #### Github usually doesn't support files larger than 25 Mb.You can find the yolo weights in (https://drive.google.com/file/d/1QrGGrZl-K2z9IH410o9oeGvbKdIDjGIS/view?usp=sharing) 
-* Download it & move to yolo coco folder
+* Download it & move to yolo-coco folder
 
 ## To run this code in your terminal:
 * ***Open your terminal**
@@ -16,3 +16,8 @@
 
 #### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
 ![Output.avi](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
+
+## Contacts:
+* **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
+* **Email: (https://abd.shoumik@gmail.com)**
+* **LinkedIn: [Abdullah Shoumik](https://www.linkedin.com/in/abdullah-shoumik-7a0b36135/)**
