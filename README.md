@@ -11,4 +11,4 @@
 ***to install the python dependencies related to this project like opencv,numpy,scipy etc.***
 * **Run the command** `time python social_distance_detector.py --input pedestrians.mp4 \ --output output.avi --display 1` ***to run your social distance detection project***
 ### After you run the last line of command,a window eill pop up and after execution of the file a `output.avi` file will be showing up in your directory like this:
-![](social distance detection.gif)
+![Output.avi](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
