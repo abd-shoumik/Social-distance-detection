@@ -20,7 +20,7 @@
 ![Output.avi](https://github.com/abd-shoumik/Social-distance-detection/blob/master/social%20distance%20detection.gif)
 
 # For GPU:
-You can find my google colab file here. [Social distance detector colab] (https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
+You can find my google colab file here. [Social distance detector colab](https://colab.research.google.com/drive/13IzdPCsAo4L613cmBEmrtM-NgSvMukb-?usp=sharing)
 
 ## Contacts:
 * **Created by:[Abdullah Shoumik](https://github.com/abd-shoumik)**
